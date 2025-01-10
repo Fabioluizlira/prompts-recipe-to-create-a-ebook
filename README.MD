@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://https://1drv.ms/p/c/a29e12f840d444e2/EWGP42-KhnlCnhnE6Z-a_yUB-rMG0xyHz8kbJhVJ3bjlWw?e=5VNhw2&nav=eyJzSWQiOjI1NiwiY0lkIjo5NzI1NjkxODN9" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
